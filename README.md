@@ -1,11 +1,11 @@
-# calculator-online
+# Calculator-Online
 
-simple Calculator for general purposes. 
+Simple Calculator for general purposes. 
 
 ## Built With
-html 📏
-css 👩🏻‍🎨
-javascript🕺
+* html 📏
+* css 👩🏻‍🎨
+* javascript🕺
 
 ## How to Run? 
 To run you need to clone the project and run the html file.
